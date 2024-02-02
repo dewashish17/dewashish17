@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Image Processing and project on "open source camera tracker for wildlife" 
 - 💞️ I’m looking to collaborate on any Software company to gain some experience
 - 📫 How to reach me = mail me at Dewashishpainkra126@gmail.com
-- 🐄 About me- i m too much kind of interovert. kind of "man of a few word". i like to listen. belive in work not  in bluff.
 <!---
 dewashish17/dewashish17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
